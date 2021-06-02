@@ -4,7 +4,7 @@
 
     <groupId>chat.tamtam</groupId>
     <artifactId>tamtam-bot-api-schema</artifactId>
-    <version>0.5.2-SNAPSHOT</version>
+    <version>0.5.3-SNAPSHOT</version>
 
     <name>TamTam Chat OpenAPI Schema</name>
     <description>This is an OpenAPI schema used to build clients for TamTam Bot API.</description>
